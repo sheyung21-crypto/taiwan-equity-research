@@ -1,0 +1,18 @@
+metric,value,status,interpretation
+test_rows,32950,verified,Corrected Test observations
+test_signal_dates,659,verified,Exact 50-name daily cross-sections
+selected_signal,low_volatility,verified,Chosen on Validation and not reselected on Test
+test_mean_daily_rank_ic,0.0033436031105063633,recomputed,No meaningful ranking edge
+test_rank_ic_raw_hac_p,0.7732909808378308,recomputed,Not statistically significant
+test_rank_ic_holm_p,1.0,verified,Not significant after family-wise adjustment
+strategy_costed_cumulative_return_pct,38.88216983022781,recomputed,Positive absolute return
+taiex_total_return_pct,194.2802749631917,recomputed,Official benchmark materially higher
+mean_daily_active_return,-0.0012173756756210183,recomputed,Negative active performance
+active_return_hac_t,-2.6261557591785665,recomputed,Negative active return
+active_return_hac_p,0.008635529124464414,recomputed,Statistically significant under stated HAC rule
+eligibility_correction_hard_checks,13/13,verified,Correction audit passed saved hard checks
+latest_review_tests_passed,272,observed,Current review environment
+latest_review_tests_failed,1,observed,Environment-lock mismatch
+latest_review_tests_not_run,21,observed,SciPy unavailable in review environment
+
+
