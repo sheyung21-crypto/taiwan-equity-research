@@ -10,7 +10,7 @@
 
 ## 完整研究報告
 
-[閱讀完整 PDF 研究報告](report/taiwan_equity_research_report.pdf)
+[閱讀完整 PDF 研究報告](https://sheyung21-crypto.github.io/taiwan-equity-research/report/taiwan_equity_research_report.pdf)
 
 PDF 是履歷連結的主要入口；本 repository 僅提供必要的方法、證據摘要與工具使用聲明。
 
@@ -40,5 +40,4 @@ PDF 是履歷連結的主要入口；本 repository 僅提供必要的方法、�
 - 0050 PCF 是發行人的每日申贖籃子，不等同於 FTSE 授權歷史成分資料。
 - Test 期已被研究者檢視，因此結果屬探索性證據，不是全新預註冊的 pristine holdout。
 - 回測成本與容量包含研究假設，不代表真實成交、投資建議或可部署策略。
-
 
